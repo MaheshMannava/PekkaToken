@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# PekkaToken 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Fork of pancakeswap cake token on bsc testnet
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+pekka token address: 0xaF05Cb15DE6962E9Caa0558763B78CdB8c30dC02
